@@ -1,1 +1,1 @@
-# Analysis-of-brain-stoke-prediction-using-Deeplearning
+# Analysis-of-brain-stoke-prediction-using-Deep learning
